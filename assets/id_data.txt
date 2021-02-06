@@ -1,0 +1,99 @@
+
+
+
+Community Matters id tag List
+
+Moduel 00 & Register
+=====================
+ID              
+    orgName             
+    netStructure        
+    firstname           
+    surname             
+    dateOfBirth         
+    idnumber            
+    age                 
+    cellNumber          
+    email               
+    race                
+    religion            
+    sex                 
+    sexuality           
+    gender              
+    prefix              
+    pronouns            
+    homeAddress   
+    Location Lists{
+        list1 = province
+        list2 = district
+        list3 = municipality     
+    } 
+    alternatePerson     
+    alternateNumber     
+    registerBtn         
+
+Module 01
+===================
+ID
+**
+
+    tested-covid        
+    access-test             
+    why-no-test             
+    which-hospital          
+    resultDuration          
+    hospitalised            
+    isolateInfo             
+    knowWhatToDO            
+    support-services        
+    supportRequre           
+    qualityOfCare           
+    do-quality-care         
+    covidExperience         
+
+Module 02
+==================
+ID
+***
+    family              
+    worship             
+    friends             
+    work                
+    shopping            
+    trevel              
+
+    lifestyle-changes           
+    social-distancing           
+    family-social-distancing    
+    see-friends                 
+    exercise                    
+    healthyFood                 
+    health-improvements         
+    health-improvements-details 
+
+Module 03
+==================
+ID
+***
+    accessToPPE             
+    earningliving           
+    changed-employment      
+    government-support      
+    applied-sassa           
+    grantApplication   
+    which-grant             
+    applied-assistance
+    application-Success
+Module 04
+===================
+ID
+***
+    employer-safe-environment
+    employer_Actions
+    employer-measures
+    workplace-guidelines
+    infoAccess
+    travel-to-work
+    public-transport
+    public-transport-measures"
+    submit_surveryBtm
